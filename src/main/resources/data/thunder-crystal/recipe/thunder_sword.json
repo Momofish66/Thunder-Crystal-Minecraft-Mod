@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    " T ",
+    " # "
+  ],
+  "key": {
+    "T": {
+      "item": "thunder-crystal:thunder_crystal"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "thunder-crystal:thunder_sword",
+    "count": 1
+  }
+}

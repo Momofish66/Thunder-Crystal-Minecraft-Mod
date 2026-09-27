@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "thunder-crystal:thunder_crystal_ore"
+  },
+  "result": {
+    "id": "thunder-crystal:thunder_crystal"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "thunder-crystal:thunder_crystal"
+    }
+  },
+  "result": {
+    "id": "thunder-crystal:thunder_crystal_block",
+    "count": 1
+  }
+}

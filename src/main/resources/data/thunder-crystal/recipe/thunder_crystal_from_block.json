@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thunder-crystal:thunder_crystal_block"
+    }
+  ],
+  "result": {
+    "id": "thunder-crystal:thunder_crystal",
+    "count" : 9
+  }
+}

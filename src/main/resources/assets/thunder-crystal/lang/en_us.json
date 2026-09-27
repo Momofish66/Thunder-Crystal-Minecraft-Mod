@@ -1,0 +1,18 @@
+{
+  "item.thunder-crystal.thunder_crystal": "Thunder Crystal",
+  "item.thunder-crystal.thunder_sword": "Thunder Sword",
+  "item.thunder-crystal.thunder_shovel": "Thunder Shovel",
+  "item.thunder-crystal.thunder_pickaxe": "Thunder Pickaxe",
+  "item.thunder-crystal.thunder_axe": "Thunder Axe",
+  "item.thunder-crystal.thunder_hoe": "Thunder Hoe",
+  "block.thunder-crystal.thunder_crystal_ore": "Thunder Crystal Ore",
+  "block.thunder-crystal.thunder_crystal_block": "Thunder Crystal Block",
+  "itemGroup.thunder-crystal.thunder_crystal": "Thunder Group",
+  "itemGroup.thunder-crystal.thunder_crystal_block": "Thunder Group",
+  "itemGroup.thunder-crystal.thunder_sword": "Thunder Group",
+  "itemGroup.thunder-crystal.thunder_shovel": "Thunder Group",
+  "itemGroup.thunder-crystal.thunder_pickaxe": "Thunder Group",
+  "itemGroup.thunder-crystal.thunder_axe": "Thunder Group",
+  "itemGroup.thunder-crystal.thunder_hoe": "Thunder Group",
+  "itemGroup.thunder-crystal.thunder_bow": "Thunder Group"
+}
