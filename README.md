@@ -1,11 +1,22 @@
 # Thunder Crystal
 
-一个增加了一套雷晶工具的模组, 用于学习开发模组的流程, 其中有剑铲斧稿和锄 
+A Minecraft mod featuring Thunder Crystal tools and lightning abilities.
 
-## 功能
+## Features
 
--  雷晶矿：在末地生成, 需要钻石镐及以上挖掘
--  雷晶：材料, 可用于制作工具
--  雷晶块: 方块
--  雷晶剑：左键单击25%释放雷电攻击目标, 长按右键蓄力三秒雷击16格范围内的所有生物
--  雷晶相关合成配方
+- Thunder Crystal
+- Thunder Crystal Ore
+- Thunder Crystal Block
+- Thunder Crystal Tools
+- Thunder Sword
+- Lightning abilities
+
+## Requirements
+
+- Minecraft 1.21
+- Fabric Loader
+- Fabric API
+
+## License
+
+This project is for learning and personal development.
